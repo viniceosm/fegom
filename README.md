@@ -29,6 +29,13 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets t
 </html>
 ```
 
+## Button
+
+Button block
+```html
+<button class="btn-fegon btn-block">
+```
+
 ## Grid system
 
 |				| *Mobile* <600px | *Tablet* >= 600px | *Desktop* >= 768px |
