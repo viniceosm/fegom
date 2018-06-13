@@ -38,6 +38,6 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets t
 
 ## Offset classes
 
-|				| *Mobile* <600px | *Tablet* ? 600px | *Desktop* ? 768px |
+|				| *Mobile* <600px | *Tablet* >= 600px | *Desktop* >= 768px |
 |---------------|-----------------|------------------|-------------------
 | *Class prefix*| `.col-x-offset-*` | `.col-s-offset-*` | `.col-m-offset-*`|
