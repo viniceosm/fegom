@@ -31,7 +31,7 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets t
 
 ## Grid system
 
-|				| *Mobile* <600px | *Tablet* ? 600px | *Desktop* ? 768px |
+|				| *Mobile* <600px | *Tablet* >= 600px | *Desktop* >= 768px |
 |---------------|-----------------|------------------|-------------------
 | *Class prefix*| `.col-`		| `.col-s-`			 | `.col-m`			 |
 | *# of columns*| 12
