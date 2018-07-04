@@ -5,8 +5,12 @@
 	--grey1: #f5e9e9;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 /* For mobile phones: */
-[class*="col-"] {
+[class^="col-"] {
 	float: left;
 	width: 100%;
 }
@@ -25,7 +29,7 @@
 .col-x-offset-1 { margin-left: 8.33333333%; }
 .col-x-offset-0 { margin-left: 0; }
 
-.btn-fegon {
+.btn-fegom {
 	background: var(--orange1);
 	border-color: transparent;
 	outline-color: var(--orange2);
