@@ -34,7 +34,7 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets t
 
 Button block
 ```html
-<button class="btn-fegon btn-block">
+<button class="btn-fegom btn-block">
 ```
 
 ## Grid system
