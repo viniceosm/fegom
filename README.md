@@ -28,8 +28,9 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets t
 
 </html>
 ```
+## Basic Elements
 
-## Button
+### Button
 
 Button block
 ```html
