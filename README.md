@@ -37,6 +37,24 @@ Button block
 <button class="btn-fegom btn-block">
 ```
 
+### Panel
+
+```html
+<div class="row">
+	<div class="col-2 col-s-7 col-s-offset-2 col-m-offset-2">
+		<div class="panel">
+			Why is the waiter called like this while customer it's who waits? 
+		</div>
+	</div>
+</div>
+```
+
+## Input
+
+```html
+<input type="text" class="form-el" placeholder="user">
+```
+
 ## Grid system
 
 |				| *Mobile* <600px | *Tablet* >= 600px | *Desktop* >= 768px |
