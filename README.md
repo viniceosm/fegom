@@ -1,6 +1,6 @@
 # Fegom
 
-Simple css
+Simple css, see [demo](https://viniceosm.github.io/fegom/demo)
 
 ## CSS
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
